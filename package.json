@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "拓展URL解析Hash能力",
   "main": "./dist/URLHelper.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "scripts": {},
+  "keywords": [
+    "URL",
+    "hash"
+  ],
+  "author": "longjiang",
   "license": "ISC",
   "files": [
     "dist"
